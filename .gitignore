@@ -21,3 +21,6 @@
 /Helper/obj
 /UnitTest/bin/Debug/netcoreapp2.2
 /UnitTest/obj
+/Calculator/bin/Debug/netcoreapp2.1
+/Helper/bin/Debug/netcoreapp2.1
+/UnitTest/bin/Debug/netcoreapp2.1
