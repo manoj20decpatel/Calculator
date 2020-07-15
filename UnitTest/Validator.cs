@@ -13,9 +13,15 @@ namespace UnitTest
         }
 
         [TestMethod]
-        public void Test_Subtract()
+        public void Test_Subtract_Zero()
         {
-            Assert.AreEqual(0, Calculate.Sum(1, 1));
+            Assert.AreEqual(0, Calculate.Subtract(1, 1));
+        }
+
+        [TestMethod]
+        public void Test_Subtract_Negative()
+        {
+            Assert.AreEqual(-1, Calculate.Subtract(1, 2));
         }
     }
 }
