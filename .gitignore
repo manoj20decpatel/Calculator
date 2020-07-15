@@ -14,3 +14,10 @@
 /Calculator/Helper/obj
 /Calculator/UnitTest/bin/Debug/netcoreapp2.2
 /Calculator/UnitTest/obj
+/.vs
+/Calculator/bin/Debug/netcoreapp2.2
+/Calculator/obj
+/Helper/bin/Debug/netcoreapp2.2
+/Helper/obj
+/UnitTest/bin/Debug/netcoreapp2.2
+/UnitTest/obj
