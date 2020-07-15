@@ -11,6 +11,7 @@ namespace Calculator
             int secondNumner = 3;
             Console.WriteLine("My First Calculator!");
             Console.WriteLine($"Sum {Calculate.Sum(firstNumber, secondNumner)}");
+            Console.WriteLine($"Subtract {Calculate.Subtract(firstNumber, secondNumner)}");
         }
     }
 }
