@@ -11,5 +11,11 @@ namespace UnitTest
         {
             Assert.AreEqual(8, Calculate.Sum(5, 3));
         }
+
+        [TestMethod]
+        public void Test_Subtract()
+        {
+            Assert.AreEqual(0, Calculate.Sum(1, 1));
+        }
     }
 }
